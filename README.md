@@ -5,6 +5,4 @@ Requirements: You need to have local web server to launch this project.
 Username : Test
 Password : 123
 
-Hiththatiyage T.S
-IT15078988
 
